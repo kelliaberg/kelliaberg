@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kelliaberg!
+- 👋 Hi, I’m @kelliaberg
 - 💞️ I’m a Swedish student learning developing!
 
 <!---
