@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @kelliaberg!
 - 💞️ I’m a Swedish student learning developing!
+- 🎓 Information Systems- Lund University
 
 <!---
 kelliaberg/kelliaberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
